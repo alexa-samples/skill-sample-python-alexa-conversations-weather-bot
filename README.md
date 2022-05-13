@@ -1,5 +1,8 @@
 # Alexa Conversations - Weather Bot Skill 
 
+# ** This repository has been archived **
+This repository is still available as a point-in-time reference, but no further updates or support will be prioritized.
+
 This folder contains the Python lambda function code for the Alexa Conversations Weather Bot hosted template available in the Alexa Developer Portal.
 
 # How to use
